@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recipereactproject/static/css/main.b60197de.css",
+    "main.js": "/recipereactproject/static/js/main.433e43e2.js",
+    "index.html": "/recipereactproject/index.html",
+    "main.b60197de.css.map": "/recipereactproject/static/css/main.b60197de.css.map",
+    "main.433e43e2.js.map": "/recipereactproject/static/js/main.433e43e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b60197de.css",
+    "static/js/main.433e43e2.js"
+  ]
+}
